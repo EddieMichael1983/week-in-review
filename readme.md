@@ -10,8 +10,8 @@ A simple HTML site outlining the first few weeks of what we've learned at Epicod
 
 ## Setup/Installation Requirements
 
-* _Step 1: Open the page in a Web Browser
-* _Step 2: View the page
+* Step 1: Open the page in a Web Browser
+* Step 2: View the page
 
 ## Known Bugs
 
